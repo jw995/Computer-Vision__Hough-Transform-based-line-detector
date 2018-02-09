@@ -4,5 +4,5 @@ This program implemented some basic image processing algorithms and putting them
 \
 Here's some of the results after tuning parameters: \
 ![img01_origin](data/img01.jpg) \
-![img01_edge](results/img01_02threshold.png) \
+![img01_edge](results/best_edge.png) \
 ![img01_after](results/best1.png) \
